@@ -1,10 +1,14 @@
-## Hi there 👋
+## Hi Tech Enthusiast! 👋
+ 📑 Kiarta ID is a digital technology business group located in Yogyakarta which was developed by one of the Yogyakarta State University Students. Kiarta ID was started because of the large number of client requests for the manufacture of digital products. Some of the services we offer include:
+- 🌏 Static website development (landing page)
+- 🔐 Information Systems
+- ☁️ IoT (Internet of Things) Technology Development
+- ⚙️ and other digital technology products
 
+### Let's connect 🤝🤝
+please contact us if you want a digital product by sending a short message via email to hello@kiarta.id
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+### Growing together
+We also welcome input, suggestions or improvements to the products we have developed. We open pull requests if there are suggestions, feedback, or reporting bugs 🦠 in our products
+<br>
+### Thank you and let's connect! 🎮
