@@ -1,6 +1,7 @@
 ## Hi Tech Enthusiast! 👋
  📑 Kiarta ID is a digital technology business group located in Yogyakarta which was developed by one of the Yogyakarta State University Students. Kiarta ID was started because of the large number of client requests for the manufacture of digital products. Some of the services we offer include:
 - 🌏 Static website development (landing page)
+- 🗂 CMS (Content Management System)
 - 🔐 Information Systems
 - ☁️ IoT (Internet of Things) Technology Development
 - ⚙️ and other digital technology products
